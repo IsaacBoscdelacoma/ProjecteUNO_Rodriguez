@@ -7,7 +7,7 @@ import uno.logica.OrdreJugadors;
 
 public class CartaMes4 extends Carta{
     public CartaMes4(Partida partida) {
-        this.simbol = "+4";
+        this.simbol = "-4";
         this.color = Color.Incolor;
         this.partida = partida;
     }
