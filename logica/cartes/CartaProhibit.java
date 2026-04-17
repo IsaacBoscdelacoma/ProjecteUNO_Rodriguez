@@ -6,7 +6,7 @@ import uno.logica.OrdreJugadors;
 
 public class CartaProhibit extends Carta{
     public CartaProhibit(Color color, Partida partida) {
-        this.simbol = "P";
+        this.simbol = "PH";
         this.color = color;
         this.partida = partida;
 
