@@ -6,7 +6,7 @@ import uno.logica.OrdreJugadors;
 
 public class CartaCanviSentit extends Carta{
     public CartaCanviSentit(Color color, Partida partida) {
-        this.simbol = "S";
+        this.simbol = "CS";
         this.color = color;
         this.partida = partida;
 
